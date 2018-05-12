@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '35550'
     url: http://www.gutenberg.org/2009/agents/35550
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31910#Memoirs-of-the-Extraordinary-Military-Career-of-John-ShippLate-a-Lieut.-in-His-Majesty-s-87th_
 gutenberg_issued: '2010-04-07'
 gutenberg_type: Text
 identifiers:
