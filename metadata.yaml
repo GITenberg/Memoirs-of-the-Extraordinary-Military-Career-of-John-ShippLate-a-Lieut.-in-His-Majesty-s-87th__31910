@@ -1,0 +1,37 @@
+_repo: Memoirs-of-the-Extraordinary-Military-Career-of-John-ShippLate-a-Lieut.-in-His-Majesty-s-87th__31910
+_version: 0.1.0
+alternative_title: "Memoirs of the Extraordinary Military Career of John Shipp\r\n\
+  Late a Lieutenant in His Majesty's 87th Regiment"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shipp, John
+    birthdate: 1784
+    deathdate: 1834
+    gutenberg_agent_id: '35549'
+    url: http://www.gutenberg.org/2009/agents/35549
+  editor:
+    agent_name: Chichester, Henry Manners
+    alias: Chichester, H. Manners (Henry Manners)
+    gutenberg_agent_id: '35550'
+    url: http://www.gutenberg.org/2009/agents/35550
+description: ''
+gutenberg_issued: '2010-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31910'
+  lccn: 06019825
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shipp, John, 1784-1834'
+- !lcsh 'India -- History -- British occupation, 1765-1947 -- Biography'
+- !lcc 'DS'
+title: 'Memoirs of the Extraordinary Military Career of John Shipp
+
+  Late a Lieut. in His Majesty''s 87th Regiment'
+url: http://www.gutenberg.org/ebooks/31910
